@@ -5,35 +5,35 @@ const music = new Audio('vande.mp3');
 const songs = [
     {
         id: '1',
-        songName: ` On My Way <br>
-        <div class="subtitle">Alan Walker</div>`,
+        songName: ` Meri Zindagi <br>
+        <div class="subtitle">Jubin Nautiyal</div>`,
         poster: "img/1.jpg"
     },
     {
         id: '2',
-        songName: ` Alan Walker-Fade <br>
-        <div class="subtitle">Alan Walker</div>`,
+        songName: ` Rataan Lambiyan <br>
+        <div class="subtitle">Jubin Nautiyal</div>`,
         poster: "img/2.jpg"
     },
     // all object type 
     {
         id: "3",
-        songName: `Cartoon - On & On <br><div class="subtitle"> Daniel Levi</div>`,
+        songName: `Phir chala <br><div class="subtitle">Jubin Nautiyal</div>`,
         poster: "img/3.jpg",
     },
     {
         id: "4",
-        songName: `Warriyo - Mortals <br><div class="subtitle">Mortals</div>`,
+        songName: `Mast Nazaron se<br><div class="subtitle">Jubin Nautiyal</div>`,
         poster: "img/4.jpg",
     },
     {
         id: "5",
-        songName: `Ertugrul Gazi <br><div class="subtitle">Ertugrul</div>`,
+        songName: `Bawara Mann <br><div class="subtitle">Jubin Nautiyal</div>`,
         poster: "img/5.jpg",
     },
     {
         id: "6",
-        songName: `Electronic Music <br><div class="subtitle">Electro</div>`,
+        songName: `Kuch toh Bata <br><div class="subtitle">Jubin Nautiyal</div>`,
         poster: "img/6.jpg",
     },
     {
