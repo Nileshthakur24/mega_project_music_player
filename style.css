@@ -358,7 +358,7 @@ header .master_play .vol input{
      position: absolute;
      width: 100%;
      height: 300px;
-     background: url('bg.png');
+     background: url('arjit_bg.png');
      rotate: 360deg;
      z-index: -1;
  }
